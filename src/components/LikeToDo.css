@@ -1,0 +1,25 @@
+.like-to-do {
+  background-color: rgb(238, 244, 249);
+  color: #333;
+  padding: 20px 0;
+}
+
+.like-to-do h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.like-to-do h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.like-to-do .btn-link {
+  font-weight: bold;
+  color: #005b96;
+  text-decoration: none;
+}
+
+.like-to-do .btn-link:hover {
+  text-decoration: underline;
+}

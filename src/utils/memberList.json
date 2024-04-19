@@ -1,0 +1,48 @@
+{
+    "members": [
+      {
+        "id": 1,
+        "title": "Make the most of your super",
+        "description": "Being a leader in retirement and investment solutions means we have expertise at our fingertips to help grow your super. We leverage the expertise of our global investment experts, who manage US$420 billion1 in assets, to help safeguard and grow your super.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_GettyImages-578160933.jpeg",
+        "buttons":[{"name":"Learn how we invest"}, {"name":"Explore your investment options"}, {"name":"Find expert advice"}]
+      },
+      {
+        "id": 2,
+        "title": "Consolidate your super",
+        "description": "Make managing your super easier and potentially save on fees by combining all your super into one account.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_GettyImages-1336160950.jpg",
+        "buttons":[{"name":"Consolidate in 3 steps here"}]
+      },
+      {
+        "id": 3,
+        "title": "Super education & webinars",
+        "description": "As a Mercer Super member, you have access to an ongoing series of educational webinars that can be viewed any time. These webinars are designed to help you understand how to get the most from your super.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_GettyImages-1389837993.jpg",
+        "buttons":[{"name":"Educational webinars"}]
+      },
+      {
+        "id": 4,
+        "title": "Explore insurance options",
+        "description": "Protect yourself from the unexpected with the right insurance. Explore our cover options designed to provide financial security for you and your loved ones.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_AdobeStock_200477017.jpeg",
+        "buttons":[{"name":"Discover your insurance options"}]
+      },
+      {
+        "id": 5,
+        "title": "Advice tools and simulator",
+        "description":"There’s no ‘one-size fits all’ strategy when it comes to financial advice. Mercer Super members have access to our self-serve e-Advice tool, limited phone-based advice and a Retirement Income Simulator – all at no additional cost. We can also refer you to a licensed Mercer Financial Advice financial planner who can provide tailored advice to help you with your targeted financial goals. This is a fee-based service, and you will be informed of all costs before any work is undertaken. The fees can be up-front or on a fixed term. The first meeting is complimentary.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_AdobeStock_247199122.jpeg",
+        "buttons":[{"name":"Explore our Retirement Income Simulator"},{"name":"Learn more about Mercer Financial Advice"},{"name":"Access e-Advice"}]
+      },
+      {
+        "id": 6,
+        "title": "Care & Living with Mercer",
+        "description": "Complimentary access for members and their families to Care & Living with Mercer, a support service that helps families with the full spectrum of ageing care requirements, from home care to retirement living and residential aged care.",
+        "image":"https://www.mercersuper.com.au/content/dam/mercer-super/australia/images/supporting/au-Mercer-Super-2023_AdobeStock_283534686.jpeg",
+        "buttons":[{"name":"Discover more"}]
+      }
+      
+    ]
+  }
+
